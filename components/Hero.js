@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="text-box">
           <h1 className="headline">
             Hello, I&apos;m <span className="highlight">Dax</span>.
-            <br />A Digital Craftsman 🦖
+            <br />A Digital Craftsman 👾
           </h1>
           <p className="tagline">
             Dev with understanding of ML who can build solutions. Currently
